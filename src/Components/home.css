@@ -1,0 +1,17 @@
+.text {
+    padding: 0 6vw;
+    margin-top: 5rem;
+
+}
+
+body {
+    background-color: lavender;
+    overflow-x: hidden;
+
+}
+
+.moons {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+}
